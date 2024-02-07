@@ -1,26 +1,17 @@
 list_name,name,label,prov_id,dist_id,post_id,external_id
 access,access_neighbour,Pela parcela do vizinho,,,,fixed
-access,access_public,Via de acesso publico ou comunit·rio,,,,fixed
 activities,assoc_activities,Actividades de associativismo,,,,fixed
-activities,drp,Actividades de DRP (delimitaÁ„o comunit·ria),,,,fixed
-activities,georef_return,Actividades de georeferenciamento e/ou devoluÁ„o,,,,fixed
 activities,internal,Encontros ou outras actividades internos,,,,fixed
 activities,land_plans,Plano de Uso de Terra,,,,fixed
-activities,limits_village,IdentificaÁ„o de limites de povoados,,,,fixed
-activities,occ,ObjecÁıes e CorreÁıes,,,,fixed
 activities,other,Outras,,,,fixed
 activities,register_parcels,Registo de parcelas,,,,fixed
 activities,register_people,Registo de pessoas,,,,fixed
-activities,sensitisation,SensibilizaÁ„o,,,,fixed
-ages,adult,Entre 30 - 50 anos,,,,fixed
-ages,elder,50+ anos,,,,fixed
 ages,minor,Menos de 18 anos,,,,fixed
-ages,youth,Entre 18 - 30 anos,,,,fixed
-civil,de_facto_union,Uni„o de Facto                            ,,,,fixed
+civil,de_facto_union,Uni√£o de Facto                            ,,,,fixed
 civil,divorced,Divorciado (a)                                              ,,,,fixed
 civil,married,Casado (a)                     ,,,,fixed
 civil,single,Solteiro (a)                           ,,,,fixed
-civil,widowed,Vi˙vo (a)                     ,,,,fixed
+civil,widowed,Vi√∫vo (a)                     ,,,,fixed
 conflict_types,access,Acesso,,,,fixed
 conflict_types,limits,Limites,,,,fixed
 conflict_types,other,Outro,,,,fixed
@@ -32,40 +23,21 @@ control,pc_3,P3,,,,fixed
 control,pc_4,P4,,,,fixed
 control,pc_5,P5,,,,fixed
 crops,banana,Banana,,,,fixed
-crops,boer_bean,Feij„o Boer,,,,fixed
-crops,butter_bean,Feij„o Manteiga,,,,fixed
 crops,cassava,Mandioca,,,,fixed
-crops,cotton,Algod„o,,,,fixed
-crops,cute_bean,Feij„o Cute,,,,fixed
 crops,garlic,Alho,,,,fixed
 crops,groundnuts,Amendoim,,,,fixed
-crops,holoco_bean,Feij„o Holoco,,,,fixed
-crops,jogo_bean,Feij„o Jogo,,,,fixed
 crops,maize,Milho,,,,fixed
 crops,millet,Mexoera,,,,fixed
-crops,nhemba_bean,Feij„o Nhemba,,,,fixed
 crops,onion,Cebola,,,,fixed
 crops,other,Outra,,,,fixed
 crops,potato,Batata,,,,fixed
 crops,rice,Arroz,,,,fixed
 crops,sesame,Gergelim,,,,fixed
 crops,sorghum,Mapira,,,,fixed
-crops,sugarcane,Cana de aÁucar,,,,fixed
+crops,sugarcane,Cana de a√ß√∫car,,,,fixed
 crops,veg,Horticulturas,,,,fixed
-delimit_type,correction,CorrecÁ„o de limites,,,,fixed
-delimit_type,new,DelimitaÁ„o nova,,,,fixed
-deliverables,assoc_statutes,Estabelecimento de AssociaÁıes - submiss„o ao BR,,,,fixed
-deliverables,baseline,Conclus„o de Estudo de Linha de Base,,,,fixed
-deliverables,delcom_request,Pedido de reconhecimento de delimitaÁ„o de terra comunit·ria ,,,,fixed
-deliverables,duats_delivered,Entrega de DeclaraÁıes de DUAT,,,,fixed
-deliverables,endline,Conclus„o de Estudo de Linha de Fim,,,,fixed
-deliverables,inception,RelatÛrio de IncepÁ„o,,,,fixed
-deliverables,lup_complete,Planos de Gest„o e Uso de Terra e RN,,,,fixed
-deliverables,occ_finished,Conclus„o do Processo de OCC,,,,fixed
-deliverables,rel_fim,RelatÛrio Final,,,,fixed
-deliverables,rel_mens,RelatÛrios Mensais,,,,fixed
-deliverables,rel_trim,RelatÛrios Trimestrais,,,,fixed
-deliverables,training,RelatÛrio de Treinamento,,,,fixed
+deliverables,baseline,Conclus√£o de Estudo de Linha de Base,,,,fixed
+deliverables,rel_fim,Relat√≥rio Final,,,,fixed
 descriptions,bush,Matagal,,,,fixed
 descriptions,fields_lowland,Machambas de zonas baixa,,,,fixed
 descriptions,fields_upland,Machambas de zonas alta,,,,fixed
@@ -75,46 +47,49 @@ descriptions,grazing,Zona de pastagem,,,,fixed
 descriptions,other,Outra,,,,fixed
 descriptions,residential,Zona Habitacional,,,,fixed
 descriptions,wetland,Zona Pantanosa,,,,fixed
+districts,D0104,CHIMBONILA,P01,NIASSA,,
+districts,D0115,NIPEPE,P01,NIASSA,,
+districts,D0116,SANGA,P01,NIASSA,,
+districts,D0101,CIDADE DE LICHINGA,P01,NIASSA,,
 districts,D0102,CUAMBA,P01,NIASSA,,
 districts,D0103,LAGO,P01,NIASSA,,
-districts,D0104,CHIMBONILA,P01,NIASSA,,
 districts,D0105,MAJUNE,P01,NIASSA,,
 districts,D0106,MANDIMBA,P01,NIASSA,,
 districts,D0107,MARRUPA,P01,NIASSA,,
-districts,D0108,MAUA,P01,NIASSA,,
+districts,D0108,MA√öA,P01,NIASSA,,
 districts,D0109,MAVAGO,P01,NIASSA,,
 districts,D0110,MECANHELAS,P01,NIASSA,,
 districts,D0111,MECULA,P01,NIASSA,,
 districts,D0112,METARICA,P01,NIASSA,,
 districts,D0113,MUEMBE,P01,NIASSA,,
 districts,D0114,NGAUMA,P01,NIASSA,,
-districts,D0115,NIPEPE,P01,NIASSA,,
-districts,D0116,SANGA,P01,NIASSA,,
-districts,D0117,LICHINGA,P01,NIASSA,,
 districts,D0202,ANCUABE,P02,C.DELGADO,,
 districts,D0203,BALAMA,P02,C.DELGADO,,
-districts,D0204,CHIURE,P02,C.DELGADO,,
+districts,D0204,CHI√öRE,P02,C.DELGADO,,
+districts,D0201,CIDADE DE PEMBA,P02,C.DELGADO,,
 districts,D0205,IBO,P02,C.DELGADO,,
 districts,D0206,MACOMIA,P02,C.DELGADO,,
-districts,D0207,MECUFI,P02,C.DELGADO,,
+districts,D0207,MEC√öFI,P02,C.DELGADO,,
 districts,D0208,MELUCO,P02,C.DELGADO,,
-districts,D0209,MOCIMBOA DA PRAIA,P02,C.DELGADO,,
+districts,D0216,METUGE,P02,C.DELGADO,,
+districts,D0209,MOC√çMBOA DA PRAIA,P02,C.DELGADO,,
 districts,D0210,MONTEPUEZ,P02,C.DELGADO,,
 districts,D0211,MUEDA,P02,C.DELGADO,,
 districts,D0212,MUIDUMBE,P02,C.DELGADO,,
 districts,D0213,NAMUNO,P02,C.DELGADO,,
 districts,D0214,NANGADE,P02,C.DELGADO,,
 districts,D0215,PALMA,P02,C.DELGADO,,
-districts,D0216,PEMBA,P02,C.DELGADO,,
 districts,D0217,QUISSANGA,P02,C.DELGADO,,
-districts,D0218,METUGE,P02,C.DELGADO,,
 districts,D0302,ANGOCHE,P03,NAMPULA,,
-districts,D0303,ERATI,P03,NAMPULA,,
-districts,D0304,ILHA DE MOCAMBIQUE,P03,NAMPULA,,
+districts,D0323,CIDADE DE NAMPULA,P03,NAMPULA,,
+districts,D0303,ER√ÅTI,P03,NAMPULA,,
+districts,D0304,ILHA DE MO√áAMBIQUE,P03,NAMPULA,,
 districts,D0305,LALAUA,P03,NAMPULA,,
+districts,D0322,LARDE,P03,NAMPULA,,
+districts,D0325,LI√öPO,P03,NAMPULA,,
 districts,D0306,MALEMA,P03,NAMPULA,,
 districts,D0307,MECONTA,P03,NAMPULA,,
-districts,D0308,MECUBURI,P03,NAMPULA,,
+districts,D0308,MECUB√öRI,P03,NAMPULA,,
 districts,D0309,MEMBA,P03,NAMPULA,,
 districts,D0310,MOGINCUAL,P03,NAMPULA,,
 districts,D0311,MOGOVOLAS,P03,NAMPULA,,
@@ -123,166 +98,134 @@ districts,D0313,MONAPO,P03,NAMPULA,,
 districts,D0314,MOSSURIL,P03,NAMPULA,,
 districts,D0315,MUECATE,P03,NAMPULA,,
 districts,D0316,MURRUPULA,P03,NAMPULA,,
-districts,D0318,NACALA_A_VELHA,P03,NAMPULA,,
-districts,D0319,NACAROA,P03,NAMPULA,,
+districts,D0318,NACALA-A-VELHA,P03,NAMPULA,,
+districts,D0324,NACALA-PORTO,P03,NAMPULA,,
+districts,D0319,NACAR√îA,P03,NAMPULA,,
 districts,D0320,RAPALE,P03,NAMPULA,,
-districts,D0321,RIBAUE,P03,NAMPULA,,
-districts,D0322,LARDE,P03,NAMPULA,,
-districts,D0323,NAMPULA,P03,NAMPULA,,
-districts,D0324,NACALA,P03,NAMPULA,,
-districts,D0325,LIUPO,P03,NAMPULA,,
-districts,D0402,ALTO MOLOCUE,P04,ZAMBEZIA,,
+districts,D0321,RIB√ÅU√à,P03,NAMPULA,,
+districts,D0402,ALTO MOL√ìCU√à,P04,ZAMBEZIA,,
 districts,D0403,CHINDE,P04,ZAMBEZIA,,
-districts,D0404,GILE,P04,ZAMBEZIA,,
-districts,D0405,GURUE,P04,ZAMBEZIA,,
+districts,D0418,DERRE,P04,ZAMBEZIA,,
+districts,D0404,GIL√â,P04,ZAMBEZIA,,
+districts,D0405,GURU√à,P04,ZAMBEZIA,,
 districts,D0406,ILE,P04,ZAMBEZIA,,
 districts,D0407,INHASSUNGE,P04,ZAMBEZIA,,
+districts,D0423,LUABO,P04,ZAMBEZIA,,
 districts,D0408,LUGELA,P04,ZAMBEZIA,,
 districts,D0409,MAGANJA DA COSTA,P04,ZAMBEZIA,,
 districts,D0410,MILANGE,P04,ZAMBEZIA,,
 districts,D0411,MOCUBA,P04,ZAMBEZIA,,
+districts,D0419,MOCUBELA,P04,ZAMBEZIA,,
+districts,D0420,MOLUMBO,P04,ZAMBEZIA,,
 districts,D0412,MOPEIA,P04,ZAMBEZIA,,
 districts,D0413,MORRUMBALA,P04,ZAMBEZIA,,
+districts,D0421,MULEVALA,P04,ZAMBEZIA,,
 districts,D0414,NAMACURRA,P04,ZAMBEZIA,,
 districts,D0415,NAMARROI,P04,ZAMBEZIA,,
 districts,D0416,NICOADALA,P04,ZAMBEZIA,,
 districts,D0417,PEBANE,P04,ZAMBEZIA,,
-districts,D0418,DERRE,P04,ZAMBEZIA,,
-districts,D0419,MOCUBELA,P04,ZAMBEZIA,,
-districts,D0420,MOLUMBO,P04,ZAMBEZIA,,
-districts,D0421,MULEVALA,P04,ZAMBEZIA,,
 districts,D0422,QUELIMANE,P04,ZAMBEZIA,,
-districts,D0423,LUABO,P04,ZAMBEZIA,,
-districts,D0502,ANGONIA,P05,TETE,,
-districts,D0503,CAHORA_BASSA,P05,TETE,,
+districts,D0502,ANG√ìNIA,P05,TETE,,
+districts,D0503,CAHORA BASSA,P05,TETE,,
 districts,D0504,CHANGARA,P05,TETE,,
 districts,D0505,CHIFUNDE,P05,TETE,,
-districts,D0506,CHIUTA,P05,TETE,,
+districts,D0506,CHI√öTA,P05,TETE,,
+districts,D0512,D√îA,P05,TETE,,
 districts,D0507,MACANGA,P05,TETE,,
-districts,D0508,MAGOE,P05,TETE,,
-districts,D0509,MARAVIA,P05,TETE,,
+districts,D0508,M√ÅGO√à,P05,TETE,,
+districts,D0517,MARARA,P05,TETE,,
+districts,D0509,MAR√ÅVIA,P05,TETE,,
 districts,D0510,MOATIZE,P05,TETE,,
 districts,D0511,MUTARARA,P05,TETE,,
-districts,D0512,DOA,P05,TETE,,
-districts,D0514,TETE,P05,TETE,,
 districts,D0515,TSANGANO,P05,TETE,,
 districts,D0516,ZUMBO,P05,TETE,,
-districts,D0517,MARARA,P05,TETE,,
-districts,D0602,BARUE,P06,MANICA,,
+districts,D0514,CIDADE DE TETE,P05,TETE,,
+districts,D0602,B√ÅRU√à,P06,MANICA,,
+districts,D0611,CIDADE DE CHIMOIO,P06,MANICA,,
 districts,D0603,GONDOLA,P06,MANICA,,
 districts,D0604,GURO,P06,MANICA,,
+districts,D0613,MACATE,P06,MANICA,,
 districts,D0605,MACHAZE,P06,MANICA,,
 districts,D0606,MACOSSA,P06,MANICA,,
 districts,D0607,MANICA,P06,MANICA,,
 districts,D0608,MOSSURIZE,P06,MANICA,,
 districts,D0609,SUSSUNDENGA,P06,MANICA,,
 districts,D0610,TAMBARA,P06,MANICA,,
-districts,D0611,CHIMOIO,P06,MANICA,,
 districts,D0612,VANDUZI,P06,MANICA,,
-districts,D0613,MACATE,P06,MANICA,,
-districts,D0702,BUZI,P07,SOFALA,,
+districts,D0702,B√öZI,P07,SOFALA,,
 districts,D0703,CAIA,P07,SOFALA,,
 districts,D0704,CHEMBA,P07,SOFALA,,
 districts,D0705,CHERINGOMA,P07,SOFALA,,
 districts,D0706,CHIBABAVA,P07,SOFALA,,
+districts,D0714,CIDADE DA BEIRA,P07,SOFALA,,
 districts,D0707,DONDO,P07,SOFALA,,
 districts,D0708,GORONGOSA,P07,SOFALA,,
 districts,D0709,MACHANGA,P07,SOFALA,,
-districts,D0710,MARINGUE,P07,SOFALA,,
+districts,D0710,MAR√çNGU√à,P07,SOFALA,,
 districts,D0711,MARROMEU,P07,SOFALA,,
 districts,D0712,MUANZA,P07,SOFALA,,
 districts,D0713,NHAMATANDA,P07,SOFALA,,
-districts,D0714,BEIRA,P07,SOFALA,,
+districts,D0815,CIDADE DA MAXIXE,P08,INHAMBANE,,
+districts,D0810,CIDADE DE INHAMBANE,P08,INHAMBANE,,
 districts,D0802,FUNHALOURO,P08,INHAMBANE,,
 districts,D0803,GOVURO,P08,INHAMBANE,,
-districts,D0804,HOMOINE,P08,INHAMBANE,,
+districts,D0804,HOMO√çNE,P08,INHAMBANE,,
 districts,D0805,INHARRIME,P08,INHAMBANE,,
 districts,D0806,INHASSORO,P08,INHAMBANE,,
 districts,D0807,JANGAMO,P08,INHAMBANE,,
 districts,D0808,MABOTE,P08,INHAMBANE,,
 districts,D0809,MASSINGA,P08,INHAMBANE,,
-districts,D0810,INHAMBANE,P08,INHAMBANE,,
 districts,D0811,MORRUMBENE,P08,INHAMBANE,,
 districts,D0812,PANDA,P08,INHAMBANE,,
 districts,D0813,VILANKULO,P08,INHAMBANE,,
 districts,D0814,ZAVALA,P08,INHAMBANE,,
-districts,D0815,MAXIXE,P08,INHAMBANE,,
 districts,D0902,BILENE,P09,GAZA,,
 districts,D0903,CHIBUTO,P09,GAZA,,
 districts,D0904,CHICUALACUALA,P09,GAZA,,
 districts,D0905,CHIGUBO,P09,GAZA,,
-districts,D0906,CHOKWE,P09,GAZA,,
-districts,D0907,GUIJA,P09,GAZA,,
+districts,D0906,CH√ìKW√à,P09,GAZA,,
+districts,D0915,CHONGOENE,P09,GAZA,,
+districts,D0913,CIDADE DE XAI-XAI,P09,GAZA,,
+districts,D0907,GUIJ√Å,P09,GAZA,,
+districts,D0916,LIMPOPO,P09,GAZA,,
 districts,D0908,MABALANE,P09,GAZA,,
-districts,D0909,MANDLAKAZI,P09,GAZA,,
+districts,D0909,MANDLAKAZE,P09,GAZA,,
+districts,D0914,MAPAI,P09,GAZA,,
 districts,D0910,MASSANGENA,P09,GAZA,,
 districts,D0911,MASSINGIR,P09,GAZA,,
-districts,D0912,XAI_XAI,P09,GAZA,,
-districts,D0914,MAPAI,P09,GAZA,,
-districts,D0915,CHONGOENE,P09,GAZA,,
-districts,D0916,LIMPOPO,P09,GAZA,,
 districts,D1002,BOANE,P10,MAPUTO,,
+districts,D1009,CIDADE DA MATOLA,P10,MAPUTO,,
 districts,D1003,MAGUDE,P10,MAPUTO,,
-districts,D1004,MANHICA,P10,MAPUTO,,
+districts,D1004,MANHI√áA,P10,MAPUTO,,
 districts,D1005,MARRACUENE,P10,MAPUTO,,
 districts,D1006,MATUTUINE,P10,MAPUTO,,
 districts,D1007,MOAMBA,P10,MAPUTO,,
 districts,D1008,NAMAACHA,P10,MAPUTO,,
-districts,D1009,MATOLA,P10,MAPUTO,,
-districts,D1101,KAMPFUMU,P11,MAPUTO CIDADE,,
-districts,D1102,NHLAMANKULU,P11,MAPUTO CIDADE,,
-districts,D1103,KAMAXAKENI,P11,MAPUTO CIDADE,,
-districts,D1104,KAMAVOTA,P11,MAPUTO CIDADE,,
 districts,D1105,KAMUBUKWANA,P11,MAPUTO CIDADE,,
+districts,D1103,KAMAXAKENI,P11,MAPUTO CIDADE,,
+districts,D1101,KAMPFUMO,P11,MAPUTO CIDADE,,
+districts,D1104,KAMAVOTA,P11,MAPUTO CIDADE,,
 districts,D1106,KATEMBE,P11,MAPUTO CIDADE,,
 districts,D1107,KANYAKA,P11,MAPUTO CIDADE,,
+districts,D1102,NLHAMANKULU,P11,MAPUTO CIDADE,,
 doc_types,draft,Rascunho,,,,fixed
 doc_types,final,Final,,,,fixed
 docs,approval_ask,Pedido de despacho,,,,fixed
-docs,approval_govdist,Despacho/comunicaÁ„o do Governo Distrital,,,,fixed
-docs,approval_govprov,Despacho/comunicaÁ„o do Governo Provincial,,,,fixed
-docs,approval_govspgc,Despacho/comunicaÁ„o do SPGC,,,,fixed
-docs,assoc_form,"Processo de LegalizaÁ„o da AssociaÁ„o (estatutos, regulamentos ou outros documentos)",,,,fixed
-docs,br_publish,Submiss„o†ao†BR (pedido de publicaÁ„o de despacho e estatutos),,,,fixed
-docs,certificate,Certificado da delimitaÁ„o comunit·ria,,,,fixed
-docs,declarations,Copias de DeclaraÁıes de DUATs emitidas pela AssociaÁ„o ,,,,fixed
-docs,form_1,Formul·rio 1 do Anexo TÈcnico (actividades de sensibilizaÁ„o),,,,fixed
-docs,form_2,Formul·rio 2 do Anexo TÈcnico (inicio de delimitaÁ„o),,,,fixed
-docs,form_3,Formul·rio 3 do Anexo TÈcnico (actividades de DRP),,,,fixed
-docs,form_5,Formul·rio 5 do Anexo TÈcnico (acta de devoluÁ„o),,,,fixed
-docs,ids,IdentificaÁ„o†de membros fundadores de AssociaÁ„o Comunit·ria,,,,fixed
-docs,map_delim,Mapas de ·rea comunit·ria (delimitada),,,,fixed
 docs,map_lists_duats,Dados e/ou mapas de DUATs familiares,,,,fixed
 docs,map_lup,Mapas de Uso de Terra,,,,fixed
 docs,meeting,Pedido de encontro,,,,fixed
 docs,reg_lup,Regulamento do Plano de Uso de Terra,,,,fixed
-docs,services_geo,Pedido de prestaÁ„o de serviÁos de Georeferenciamento,,,,fixed
-docs,titles,TÌtulos de DUATs,,,,fixed
-documents,declaration,DeclaraÁ„o (Documento de Testemunhas),,,,fixed
-documents,demobilization_card,Cart„o de DesmobilizaÁ„o/Cart„o Militar,,,,fixed
-documents,driving_licence,Carta de ConduÁ„o,,,,fixed
 documents,identity_document,Bilhete de Identidade,,,,fixed
-documents,identity_receipt,Tal„o do BI,,,,fixed
 documents,nuit,NUIT,,,,fixed
 documents,other,outro,,,,fixed
 documents,passport,Passaporte,,,,fixed
-documents,personal_ballot,CÈdula Pessoal,,,,fixed
-documents,tax_payment_card,Cart„o de pagamento de imposto,,,,fixed
-documents,voter_card,Cart„o de Eleitor,,,,fixed
-duat_choices,declaration,DeclaraÁ„o emitida pela AssociaÁ„o,,,,fixed
 duat_choices,map_only,Apenas mapeado no mapa cadastral da comunidade,,,,fixed
-duat_choices,title,Requer a emiss„o do titulo pelos ServiÁos Cadastrais,,,,fixed
-education,medium,Medio,,,,fixed
 education,none,Nunca estudou,,,,fixed
-education,primary,Prim·rio,,,,fixed
-education,secondary,Secund·rio,,,,fixed
 education,superior,Superior,,,,fixed
-enum_cat,community_parasurveyor,Auxiliar Comunit·ria,,,,fixed
 enum_cat,enumerator,Enumerador,,,,fixed
 eras,era_1,Antes do tempo colonial,,,,fixed
 eras,era_2,Antes da Segunda Guerra Mundial,,,,fixed
-eras,era_3,Durante a Guerra da LibertaÁ„o,,,,fixed
-eras,era_4,Depois da IndependÍncia,,,,fixed
+eras,era_4,Depois da Independ√™ncia,,,,fixed
 eras,era_5,Durante a Guerra entre FRELIMO e RENAMO,,,,fixed
 eras,era_6,Depois do Acordo de Paz em 1992,,,,fixed
 eras,era_7,Depois do morte do Afonso Dhlakama,,,,fixed
@@ -290,32 +233,22 @@ eras,year,Ano exacto,,,,fixed
 genders,female,Feminino,,,,fixed
 genders,male,Masculino,,,,fixed
 houses,perm,Permanente,,,,fixed
-houses,temp,Palhotas tempor·rias,,,,fixed
+houses,temp,Palhotas tempor√°rias,,,,fixed
 housing,agr,Agrupadas,,,,fixed
 housing,dis,Dispersas,,,,fixed
-institutions,assoc_com,AssociaÁ„o Comunit·ria,,,,fixed
-institutions,bairro_admin,Secretario do Bairro,,,,fixed
-institutions,dinat,DirecÁ„o Nacional de Terras,,,,fixed
-institutions,district_admin,AdministraÁ„o Distrital,,,,fixed
-institutions,dptadr,"DirecÁ„o Provincial de Terras, Ambiente e Desenvolvimento Rural",,,,fixed
+education,medium,M√©dio,,,,fixed
+institutions,bairro_admin,Secret√°rio do Bairro,,,,fixed
 institutions,imp_nac,Imprensa Nacional,,,,fixed
 institutions,locality_admin,Presidente da Localidade,,,,fixed
 institutions,locality_admin,Presidente da Localidade,,,,fixed
 institutions,post_admin,Chefe do Posto,,,,fixed
-institutions,sdae,ServiÁos Distritais de Actividades EconÛmicas,,,,fixed
-institutions,sdpi,ServiÁos Distritais de PlanificaÁ„o e Infraestruturas,,,,fixed
-institutions,spffb,ServiÁos Provinciais de Florestas e Fauna Bravia,,,,fixed
-institutions,spgc,ServiÁos Provinciais de Geografia e Cadastro,,,,fixed
 institutions,tax,Autoridade Tributaria,,,,fixed
-institutions,trad_com,Autoridade Comunit·ria (Regulo ou chefe tradicional),,,,fixed
-institutions_meet,bairro_admin,Secretario do Bairro,,,,fixed
-institutions_meet,community_rep,Autoridade Comunit·ria,,,,fixed
-institutions_meet,district_admin,AdministraÁ„o Distrital,,,,fixed
+institutions_meet,bairro_admin,Secretario/Chefe do Bairro,,,,fixed
+institutions_meet,community_rep,Autoridade Comunit√°ria,,,,fixed
 institutions_meet,locality_admin,Presidente da Localidade,,,,fixed
 institutions_meet,other,Outra,,,,fixed
 institutions_meet,post_admin,Chefe do Posto,,,,fixed
-institutions_meet,service_dist,ServiÁos Distritais,,,,fixed
-institutions_meet,service_prov,ServiÁos Provinciais,,,,fixed
+institutions_meet,service_dist,Servi√ßos Distritais,,,,fixed
 languages,changana,Changana,,,,fixed
 languages,cicopi,Cicopi,,,,fixed
 languages,cindau,Cindau,,,,fixed
@@ -326,7 +259,7 @@ languages,echawabo,Echawabo,,,,fixed
 languages,ekoti,Ekoti,,,,fixed
 languages,elomwe,Elomwe,,,,fixed
 languages,emakhuwa,Emakhuwa,,,,fixed
-languages,portuguese,PortuguÍs,,,,fixed
+languages,portuguese,Portugu√™s,,,,fixed
 languages,shimakonde,Shimakonde,,,,fixed
 languages,xitswa,Xitswa,,,,fixed
 lotes,lote_a,A,,,,fixed
@@ -339,28 +272,17 @@ maps,female,Mulheres,,,,fixed
 maps,male ,Homens,,,,fixed
 maps,youth,Jovens,,,,fixed
 meetings,meet_district,Encontro no Distrito,,,,fixed
-meetings,meet_leaders,Encontro apenas com lideranÁa tradicional,,,,fixed
 meetings,meet_neighbours,Encontro com comunidade vizinha,,,,fixed
 meetings,meet_post,Encontro no Posto Administrativo,,,,fixed
 meetings,meet_province,Encontro ao nivel Provincial,,,,fixed
-meetings,meet_village,Encontro ao nÌvel de povoado,,,,fixed
-nationalities,moz,MoÁambicana,,,,fixed
 nationalities,other,outra,,,,fixed
-norms,donation,DoaÁ„o de alguÈm,,,,fixed
-norms,inheritance,HeranÁa da famÌlia,,,,fixed
 norms,other,Outro,,,,fixed
 norms,purchase,Compra de Benfeitorias,,,,fixed
-norms,traditional,AtravÈs do Regulo ou autoridade tradicional,,,,fixed
-norms,transfer,Transmiss„o,,,,fixed
-occup,customary,Atraves de Normas e Pr·ticas Costumeiras,,,,fixed
-occup,good_faith,OcupaÁ„o de boa fÈ (pelo menos 10 anos),,,,fixed
 occup,resettlement,Reassentamento,,,,fixed
 other_use_areas,cell_tower,Torre Celular,,,,fixed
-other_use_areas,cemetery,CemitÈrio,,,,fixed
 other_use_areas,duat,DUAT privado/titulado,,,,fixed
 other_use_areas,football_field,Campo de futebol,,,,fixed
 other_use_areas,forest,Floresta comunal,,,,fixed
-other_use_areas,health_post,Posto de Sa˙de,,,,fixed
 other_use_areas,market,Feira/Mercado,,,,fixed
 other_use_areas,other,Outro,,,,fixed
 other_use_areas,religious_church,Igreja,,,,fixed
@@ -368,11 +290,6 @@ other_use_areas,religious_mosque,Mesquita,,,,fixed
 other_use_areas,sacred,Local sagrado,,,,fixed
 other_use_areas,school,Escola,,,,fixed
 other_use_areas,state_reserve,Reserva do Estado,,,,fixed
-other_use_areas,well,PoÁo de ·gua,,,,fixed
-outcomes,certify,Todos os detalhes est„o corretos e confirmados,,,,fixed
-outcomes,change,Foi feita uma alteraÁ„o aos detalhes do(s) (co-)titular(es) ou as limites da parcela,,,,fixed
-outcomes,disputed,Foi feita uma objecÁ„o que necessita uma resoluÁ„o ainda,,,,fixed
-outcomes,unconfirmed,O titular n„o confirmou os seus detalhes durante o perÌodo de O & C,,,,fixed
 participation,high,Alto,,,,fixed
 participation,low,Fraco,,,,fixed
 participation,medium,Medio,,,,fixed
@@ -385,19 +302,16 @@ party_role,representative_absent,Representante duma pessoa ausente,,,,fixed
 party_role,representative_minor,Representante duma pessoa menor,,,,fixed
 party_role,right_holder,Titular,,,,fixed
 party_role,witness,Testemunha,,,,fixed
-points,assoc_meet,AssociaÁ„o - Ponto de encontro,,,,fixed
 points,boundary,Limite reconhecido entre comunidades,,,,fixed
 points,cell_tower,Torre Celular,,,,fixed
-points,cemetery,CemitÈrio,,,,fixed
-points,chief_house,Casa do regulo ou chefe,,,,fixed
 points,concrete_marker,Monumento de cimento,,,,fixed
 points,conflict,Conflito,,,,fixed
+points,chief_house,Casa do r√©gulo ou chefe,,,,fixed
 points,control,Ponto de controle,,,,fixed
 points,duat,DUAT privado/titulado,,,,fixed
 points,field,Machamba,,,,fixed
 points,football_field,Campo de futebol,,,,fixed
 points,forest,Floresta comunal,,,,fixed
-points,health_post,Posto de Sa˙de,,,,fixed
 points,market,Feira/Mercado,,,,fixed
 points,mountain,Montanha,,,,fixed
 points,other,Outro,,,,fixed
@@ -410,19 +324,17 @@ points,sacred,Local sagrado,,,,fixed
 points,school,Escola,,,,fixed
 points,shop,Loja,,,,fixed
 points,state_reserve,Reserva do Estado,,,,fixed
-points,tree,¡rvore,,,,fixed
-points,tree_marked,¡rvore com uma marca,,,,fixed
-points,water_point,Furo de ·gua,,,,fixed
-points,well,PoÁo de ·gua,,,,fixed
 points,zone,Zona de interesse para fins de mapeamento,,,,fixed
 posts,PA010101,Municipio de Lichinga,,D0101,,
 posts,PA010201,Cuamba,,D0102,,
 posts,PA010202,Etatara,,D0102,,
-posts,PA010203,Lurio,,D0102,,
+posts,PA010203,L√∫rio,,D0102,,
+posts,PA010204,Mepica,,D0102,,
 posts,PA010301,Metangula,,D0103,,
-posts,PA010302,CÛbuË,,D0103,,
+posts,PA010302,Cobue,,D0103,,
 posts,PA010303,Lunho,,D0103,,
 posts,PA010304,Maniamba,,D0103,,
+posts,PA010305,Meluluca,,D0103,,
 posts,PA010401,Chimbunila,,D0104,,
 posts,PA010402,Lione,,D0104,,
 posts,PA010501,Malanga,,D0105,,
@@ -433,37 +345,46 @@ posts,PA010602,Mitande,,D0106,,
 posts,PA010701,Marrupa,,D0107,,
 posts,PA010702,Marangira,,D0107,,
 posts,PA010703,Nungo,,D0107,,
-posts,PA010801,Ma˙a,,D0108,,
+posts,PA010801,Maua,,D0108,,
 posts,PA010802,Maiaca,,D0108,,
 posts,PA010901,Mavago,,D0109,,
-posts,PA010902,M'sawize,,D0109,,
+posts,PA010902,Msawize,,D0109,,
 posts,PA011001,Insaca,,D0110,,
-posts,PA011002,Chi˙ta,,D0110,,
+posts,PA011002,Chiuta,,D0110,,
 posts,PA011101,Mecula,,D0111,,
 posts,PA011102,Matondovela,,D0111,,
-posts,PA011201,Metarica,,D0112,,
+posts,PA011201,Namicundi,,D0112,,
 posts,PA011202,Nacumua,,D0112,,
 posts,PA011301,Muembe,,D0113,,
 posts,PA011302,Chiconono,,D0113,,
 posts,PA011401,Massangulo,,D0114,,
 posts,PA011402,Itepela,,D0114,,
 posts,PA011501,Nipepe,,D0115,,
-posts,PA011502,Muipite,,D0115,,
+posts,PA011502,Muluco,,D0115,,
 posts,PA011601,Unango,,D0116,,
 posts,PA011602,Lussimbesse,,D0116,,
 posts,PA011603,Macaloge,,D0116,,
 posts,PA011604,Matchedje,,D0116,,
-posts,PA011701,Lichinga,,D0117,,
-posts,PA011702,Meponda,,D0117,,
+posts,PA011702,Meponda,,D0104,,
+posts,PA020101,Alto Gingone,,D0201,,
+posts,PA020102,Cariaco,,D0201,,
+posts,PA020103,Cimento,,D0201,,
+posts,PA020104,Chuiba,,D0201,,
+posts,PA020105,Eduardo Mondlane,,D0201,,
+posts,PA020106,Ingonane,,D0201,,
+posts,PA020107,Marringanha,,D0201,,
+posts,PA020108,Muxara,,D0201,,
+posts,PA020109,Natite,,D0201,,
+posts,PA020110,Paquitequete,,D0201,,
 posts,PA020201,Ancuabe,,D0202,,
 posts,PA020202,Metoro,,D0202,,
 posts,PA020203,Mesa,,D0202,,
 posts,PA020301,Balama,,D0203,,
 posts,PA020302,Impiri,,D0203,,
-posts,PA020303,KuÈkuÈ,,D0203,,
+posts,PA020303,Kuekue,,D0203,,
 posts,PA020304,Mavale,,D0203,,
-posts,PA020401,Chi˙re,,D0204,,
-posts,PA020402,Chi˙re Velho,,D0204,,
+posts,PA020401,Chiure,,D0204,,
+posts,PA020402,Chiure Velho,,D0204,,
 posts,PA020403,Katapua,,D0204,,
 posts,PA020404,Mazeze,,D0204,,
 posts,PA020405,Namogelia,,D0204,,
@@ -475,10 +396,10 @@ posts,PA020602,Chai,,D0206,,
 posts,PA020603,Mucojo,,D0206,,
 posts,PA020604,Quiterajo,,D0206,,
 posts,PA020701,Mecufi,,D0207,,
-posts,PA020702,MurrÈbuË,,D0207,,
+posts,PA020702,Murr√©bu√®,,D0207,,
 posts,PA020801,Meluco,,D0208,,
 posts,PA020802,Muaguide,,D0208,,
-posts,PA020901,MocÌmboa da Praia,,D0209,,
+posts,PA020901,Mocimboa da Praia,,D0209,,
 posts,PA020902,Diaca,,D0209,,
 posts,PA020903,Mbau,,D0209,,
 posts,PA021002,Mapupulo,,D0210,,
@@ -490,51 +411,42 @@ posts,PA021101,Mueda,,D0211,,
 posts,PA021102,Chapa,,D0211,,
 posts,PA021103,Imbuo,,D0211,,
 posts,PA021104,Negomano,,D0211,,
-posts,PA021105,N'gapa,,D0211,,
-posts,PA021201,Muidumbe,,D0212,,
+posts,PA021105,Ngapa,,D0211,,
+posts,PA021106,Namaua,,D0211,,
+posts,PA021201,Muambula,,D0212,,
 posts,PA021202,Chitunda,,D0212,,
 posts,PA021203,Miteda,,D0212,,
 posts,PA021301,Namuno,,D0213,,
 posts,PA021302,Hucula,,D0213,,
 posts,PA021303,Machoca,,D0213,,
 posts,PA021304,Meluco,,D0213,,
-posts,PA021305,N'Cumpe,,D0213,,
+posts,PA021305,NCumpe,,D0213,,
 posts,PA021306,Papai,,D0213,,
 posts,PA021401,Nangade,,D0214,,
-posts,PA021402,M'tamba,,D0214,,
+posts,PA021402,Mtamba,,D0214,,
 posts,PA021501,Palma,,D0215,,
 posts,PA021502,Olumbi,,D0215,,
 posts,PA021503,Pundanhar,,D0215,,
 posts,PA021504,Quionga,,D0215,,
-posts,PA021601,Alto Gingone,,D0216,,
-posts,PA021602,CariacÛ,,D0216,,
-posts,PA021603,Cimento,,D0216,,
-posts,PA021604,Chuiba,,D0216,,
-posts,PA021605,Eduardo Mondlane,,D0216,,
-posts,PA021606,Ingonane,,D0216,,
-posts,PA021607,Marringanha,,D0216,,
-posts,PA021608,Muxara,,D0216,,
-posts,PA021609,Natite,,D0216,,
-posts,PA021610,Paquitequete,,D0216,,
+posts,PA021801,Metuge,,D0216,,
+posts,PA021802,Mieze,,D0216,,
 posts,PA021701,Quissanga,,D0217,,
 posts,PA021702,Bilibiza,,D0217,,
 posts,PA021703,Mahate,,D0217,,
-posts,PA021801,Metuge,,D0218,,
-posts,PA021802,Mieze,,D0218,,
 posts,PA030201,Angoche,,D0302,,
 posts,PA030202,Aube,,D0302,,
 posts,PA030203,Namaponda,,D0302,,
 posts,PA030204,Boila,,D0302,,
 posts,PA030301,Namapa,,D0303,,
 posts,PA030302,Alaua,,D0303,,
-posts,PA030303,NamirÙa,,D0303,,
+posts,PA030303,Namiroa,,D0303,,
 posts,PA030401,Ilha de Mocambique,,D0304,,
 posts,PA030402,Lumbo,,D0304,,
 posts,PA030501,Lalaua,,D0305,,
-posts,PA030502,MÈti,,D0305,,
+posts,PA030502,Meti,,D0305,,
 posts,PA030601,Malema,,D0306,,
 posts,PA030602,Chihulo,,D0306,,
-posts,PA030603,Mutu·li,,D0306,,
+posts,PA030603,Mutuali,,D0306,,
 posts,PA030604,Canhunha,,D0306,,
 posts,PA030701,Meconta,,D0307,,
 posts,PA030702,Corrane,,D0307,,
@@ -546,16 +458,16 @@ posts,PA030803,Muite,,D0308,,
 posts,PA030804,Namina,,D0308,,
 posts,PA030901,Memba,,D0309,,
 posts,PA030902,Chipene,,D0309,,
-posts,PA030903,L˙rio,,D0309,,
+posts,PA030903,L√∫rio,,D0309,,
 posts,PA030904,Mazua,,D0309,,
 posts,PA031001,Namige,,D0310,,
 posts,PA031004,Quixaxe,,D0310,,
 posts,PA031101,Nametil,,D0311,,
 posts,PA031102,Calipo,,D0311,,
-posts,PA031103,Iul˙ti,,D0311,,
+posts,PA031103,Iuluti,,D0311,,
 posts,PA031104,Muatua,,D0311,,
 posts,PA031105,Nanhupo-Rio,,D0311,,
-posts,PA031201,Moma,,D0312,,
+posts,PA031201,Macone,,D0312,,
 posts,PA031202,Chalaua,,D0312,,
 posts,PA031301,Monapo,,D0313,,
 posts,PA031302,Itoculo,,D0313,,
@@ -570,14 +482,14 @@ posts,PA031601,Murrupula,,D0316,,
 posts,PA031602,Chinga,,D0316,,
 posts,PA031603,Nihessiue,,D0316,,
 posts,PA031801,Nacala_Velha,,D0318,,
-posts,PA031802,CovÛ,,D0318,,
-posts,PA031901,NacarÙa,,D0319,,
+posts,PA031802,Covo,,D0318,,
+posts,PA031901,Nacaroa,,D0319,,
 posts,PA031902,Inteta,,D0319,,
 posts,PA031903,Saua_Saua,,D0319,,
 posts,PA032001,Rapale,,D0320,,
 posts,PA032002,Mutivasse,,D0320,,
 posts,PA032003,Namaita,,D0320,,
-posts,PA032101,Rib·uË,,D0321,,
+posts,PA032101,Ribaue,,D0321,,
 posts,PA032102,Cunle,,D0321,,
 posts,PA032103,Iapala,,D0321,,
 posts,PA032201,Larde,,D0322,,
@@ -588,23 +500,24 @@ posts,PA032303,Muatala,,D0323,,
 posts,PA032304,Namicopo,,D0323,,
 posts,PA032305,Napipine,,D0323,,
 posts,PA032306,Natikire,,D0323,,
+posts,PA032307,Muhala,,D0323,,
 posts,PA032401,Mutiva,,D0324,,
 posts,PA032402,Muanona,,D0324,,
 posts,PA032501,Quinga,,D0325,,
-posts,PA032502,Li˙po,,D0325,,
+posts,PA032502,Liupo,,D0325,,
 posts,PA040201,Molocue,,D0402,,
 posts,PA040202,Nauela,,D0402,,
 posts,PA040301,Chinde,,D0403,,
-posts,PA040303,Mica˙ne,,D0403,,
-posts,PA040401,GilÈ,,D0404,,
+posts,PA040303,Mica√∫ne,,D0403,,
+posts,PA040401,Gile,,D0404,,
 posts,PA040402,Alto Ligonha,,D0404,,
-posts,PA040501,GuruË,,D0405,,
+posts,PA040501,Gurue,,D0405,,
 posts,PA040502,Lioma,,D0405,,
 posts,PA040503,Mepuagiua,,D0405,,
 posts,PA040601,Ile,,D0406,,
 posts,PA040602,Namigonha,,D0406,,
 posts,PA040603,Socone,,D0406,,
-posts,PA040701,Inhassunge,,D0407,,
+posts,PA040701,Mucupia,,D0407,,
 posts,PA040702,Gonhane,,D0407,,
 posts,PA040801,Lugela,,D0408,,
 posts,PA040802,Tacuane,,D0408,,
@@ -625,20 +538,23 @@ posts,PA041302,Chire,,D0413,,
 posts,PA041304,Megaza,,D0413,,
 posts,PA041401,Namacurra,,D0414,,
 posts,PA041402,Macuse,,D0414,,
+posts,PA041403,Malei,,D0414,,
 posts,PA041501,Namarroi,,D0415,,
 posts,PA041502,Regone,,D0415,,
 posts,PA041601,Nicoadala,,D0416,,
+posts,PA041602,MUNHONHA,,D0416,,
+posts,PA041603,NAMACATA,,D0416,,
 posts,PA041701,Pebane,,D0417,,
 posts,PA041702,Mulela,,D0417,,
-posts,PA041703,Nab˙ri,,D0417,,
-posts,PA041801,Derre,,D0418,,
+posts,PA041703,Nab√∫ri,,D0417,,
+posts,PA041801,Machindo,,D0418,,
 posts,PA041802,Guerissa,,D0418,,
 posts,PA041901,Bajone,,D0419,,
 posts,PA041902,Mocubela,,D0419,,
 posts,PA042001,Corromana,,D0420,,
 posts,PA042002,Molumbo,,D0420,,
 posts,PA042101,Chiraco,,D0421,,
-posts,PA042102,Mulevala,,D0421,,
+posts,PA042102,Mbauane,,D0421,,
 posts,PA042201,Posto Adm N1,,D0422,,
 posts,PA042202,Maquival,,D0422,,
 posts,PA042203,Posto Adm N2,,D0422,,
@@ -646,14 +562,14 @@ posts,PA042204,Posto Adm N3,,D0422,,
 posts,PA042205,Posto Adm N4,,D0422,,
 posts,PA042206,Posto Adm N5,,D0422,,
 posts,PA042301,Chimbazo,,D0423,,
-posts,PA042302,Luabo,,D0423,,
-posts,PA050201,UlÛngoË,,D0502,,
-posts,PA050202,DÛmuË,,D0502,,
+posts,PA042302,Samora Machel,,D0423,,
+posts,PA050201,Ulongoe,,D0502,,
+posts,PA050202,Domue,,D0502,,
 posts,PA050301,Songo,,D0503,,
 posts,PA050302,Chintholo,,D0503,,
 posts,PA050303,Chitima,,D0503,,
 posts,PA050401,Luenha,,D0504,,
-posts,PA050402,ChiÙco,,D0504,,
+posts,PA050402,Chi√¥co,,D0504,,
 posts,PA050501,Chifunde,,D0505,,
 posts,PA050502,Mualadzi,,D0505,,
 posts,PA050503,Nsadzu,,D0505,,
@@ -665,30 +581,30 @@ posts,PA050801,Mphende,,D0508,,
 posts,PA050802,Chinthopo,,D0508,,
 posts,PA050803,Mukumbura,,D0508,,
 posts,PA050901,Chiputu,,D0509,,
-posts,PA050902,FÌngoË,,D0509,,
+posts,PA050902,F√≠ngoe,,D0509,,
 posts,PA050903,Malowera,,D0509,,
 posts,PA050904,Chipera,,D0509,,
 posts,PA051001,Moatize,,D0510,,
 posts,PA051002,Kambulatsitsi,,D0510,,
-posts,PA051003,ZÛbuË,,D0510,,
-posts,PA051101,NhamayabuË,,D0511,,
+posts,PA051003,Zobue,,D0510,,
+posts,PA051101,Nhamayabue,,D0511,,
 posts,PA051102,Chare,,D0511,,
 posts,PA051103,Inhangoma,,D0511,,
 posts,PA051201,Doa,,D0512,,
 posts,PA051202,Chueza,,D0512,,
 posts,PA051401,Samora Machel,,D0514,,
-posts,PA051402,Mp·duÈ,,D0514,,
+posts,PA051402,Mpadue,,D0514,,
 posts,PA051403,Matundo,,D0514,,
-posts,PA051404,Mateus Sans„o Muthemba,,D0514,,
+posts,PA051404,Mateus Sansao Muthemba,,D0514,,
 posts,PA051405,Josina Machel,,D0514,,
 posts,PA051406,Francisco Manyanga,,D0514,,
 posts,PA051407,Filipe Samuel Magaia,,D0514,,
-posts,PA051408,DÈgue,,D0514,,
+posts,PA051408,Degue,,D0514,,
 posts,PA051409,Chingodzi,,D0514,,
 posts,PA051501,Ntengo_Wa_Mbalame,,D0515,,
 posts,PA051502,Tsangano,,D0515,,
 posts,PA051601,Muze,,D0516,,
-posts,PA051602,Z‚mbuË,,D0516,,
+posts,PA051602,Zambue,,D0516,,
 posts,PA051603,Zumbu,,D0516,,
 posts,PA051701,Marara,,D0517,,
 posts,PA051702,Mufa-Boroma,,D0517,,
@@ -729,11 +645,11 @@ posts,PA061201,Matsinho,,D0612,,
 posts,PA061202,Vanduzi,,D0612,,
 posts,PA061301,Macate,,D0613,,
 posts,PA061302,Zembe,,D0613,,
-posts,PA070201,B˙zi,,D0702,,
+posts,PA070201,Buzi,,D0702,,
 posts,PA070202,Estaquinha,,D0702,,
 posts,PA070203,Sofala,,D0702,,
 posts,PA070301,Caia,,D0703,,
-posts,PA070302,MurraÁa,,D0703,,
+posts,PA070302,Murraca,,D0703,,
 posts,PA070303,Sena,,D0703,,
 posts,PA070401,Chemba,,D0704,,
 posts,PA070402,Chiramba,,D0704,,
@@ -742,17 +658,19 @@ posts,PA070501,Inhaminga,,D0705,,
 posts,PA070502,Inhamitanga,,D0705,,
 posts,PA070601,Chibabava,,D0706,,
 posts,PA070602,Goonda,,D0706,,
-posts,PA070603,Mux˙nguË,,D0706,,
+posts,PA070603,Mux√∫ngu√®,,D0706,,
 posts,PA070701,Dondo,,D0707,,
 posts,PA070702,Mafambisse,,D0707,,
+posts,PA070703,Savane,,D0707,,
 posts,PA070801,Gorongosa,,D0708,,
-posts,PA070802,Nhamadze,,D0708,,
+posts,PA070802,Canda,,D0708,,
 posts,PA070803,Vunduzi,,D0708,,
 posts,PA070901,Machanga,,D0709,,
 posts,PA070902,Divinhe,,D0709,,
-posts,PA071001,MarÌnguË,,D0710,,
+posts,PA070903,Chiloane,,D0709,,
+posts,PA071001,Maringue,,D0710,,
 posts,PA071002,Canxixe,,D0710,,
-posts,PA071003,S˙bwË,,D0710,,
+posts,PA071003,Subwe,,D0710,,
 posts,PA071101,Marromeu,,D0711,,
 posts,PA071102,Chupanga,,D0711,,
 posts,PA071201,Muanza,,D0712,,
@@ -762,13 +680,13 @@ posts,PA071302,Tica,,D0713,,
 posts,PA071401,Chiveve,,D0714,,
 posts,PA071402,Manga Loforte,,D0714,,
 posts,PA071403,Munhava,,D0714,,
-posts,PA071404,NhamÌzua,,D0714,,
+posts,PA071404,Nhamizua,,D0714,,
 posts,PA071405,Nhangau,,D0714,,
 posts,PA080201,Funhalouro,,D0802,,
 posts,PA080202,Tome,,D0802,,
 posts,PA080301,Mambone,,D0803,,
 posts,PA080302,Save,,D0803,,
-posts,PA080401,HomoÌne,,D0804,,
+posts,PA080401,Homoine,,D0804,,
 posts,PA080402,Pembe,,D0804,,
 posts,PA080501,Inharrime,,D0805,,
 posts,PA080502,Mocumbi,,D0805,,
@@ -798,9 +716,9 @@ posts,PA081014,Machavenga,,D0810,,
 posts,PA081015,Malembuane,,D0810,,
 posts,PA081016,Marrambone,,D0810,,
 posts,PA081017,Mucucune,,D0810,,
-posts,PA081018,MuelÈ 1,,D0810,,
-posts,PA081019,MuelÈ 2,,D0810,,
-posts,PA081020,MuelÈ 3,,D0810,,
+posts,PA081018,Muele 1,,D0810,,
+posts,PA081019,Muele 2,,D0810,,
+posts,PA081020,Muele 3,,D0810,,
 posts,PA081021,Nhamua,,D0810,,
 posts,PA081022,Salele,,D0810,,
 posts,PA081023,Siquiriva,,D0810,,
@@ -846,11 +764,11 @@ posts,PA090401,Pafuri,,D0904,,
 posts,PA090402,Eduardo Mondlane,,D0904,,
 posts,PA090501,Chigubo,,D0905,,
 posts,PA090502,Dindiza,,D0905,,
-posts,PA090601,ChÛkwË,,D0906,,
+posts,PA090601,Chokwe,,D0906,,
 posts,PA090602,Lionde,,D0906,,
 posts,PA090603,Macarretane,,D0906,,
 posts,PA090604,Xilembene,,D0906,,
-posts,PA090701,CaniÁado,,D0907,,
+posts,PA090701,Canicado,,D0907,,
 posts,PA090702,Chivongoene,,D0907,,
 posts,PA090703,Mubangoene,,D0907,,
 posts,PA090704,Nalazi,,D0907,,
@@ -861,17 +779,18 @@ posts,PA090901,Mandlakazi,,D0909,,
 posts,PA090902,Chalala,,D0909,,
 posts,PA090903,Chibonzane,,D0909,,
 posts,PA090904,Chidenguele,,D0909,,
-posts,PA090905,Macu·cua,,D0909,,
+posts,PA090905,Macuacua,,D0909,,
 posts,PA091001,Massangena,,D0910,,
-posts,PA091002,Mav˙e,,D0910,,
+posts,PA091002,Mavue,,D0910,,
 posts,PA091101,Massingir,,D0911,,
 posts,PA091102,Mavodze,,D0911,,
 posts,PA091103,Zulo,,D0911,,
-posts,PA091301,Xai-Xai,,D0912,,
-posts,PA091302,Inhamissa,,D0912,,
-posts,PA091303,Patrice Lumumba,,D0912,,
-posts,PA091304,Praia de Xai-Xai,,D0912,,
-posts,PA091401,MachaÌla,,D0914,,
+posts,PA091301,Xai-Xai,,D0913,,
+posts,PA091302,Inhamissa,,D0913,,
+posts,PA091303,Patrice Lumumba,,D0913,,
+posts,PA091304,Praia de Xai-Xai,,D0913,,
+posts,PA091401,Macha√≠la,,D0914,,
+posts,PA091402,Mapai,,D0914,,
 posts,PA091501,Chongoene,,D0915,,
 posts,PA091502,Mazucane,,D0915,,
 posts,PA091503,Nguzene,,D0915,,
@@ -885,7 +804,7 @@ posts,PA100302,Mapulanguene,,D1003,,
 posts,PA100303,Motaze,,D1003,,
 posts,PA100304,Mahele,,D1003,,
 posts,PA100305,Panjane,,D1003,,
-posts,PA100401,ManhiÁa,,D1004,,
+posts,PA100401,Manhi√ßa,,D1004,,
 posts,PA100402,Calanga,,D1004,,
 posts,PA100403,Ilha Josina Machel,,D1004,,
 posts,PA100404,Maluana,,D1004,,
@@ -901,12 +820,19 @@ posts,PA100605,Zitundo,,D1006,,
 posts,PA100701,Moamba,,D1007,,
 posts,PA100702,Pessene,,D1007,,
 posts,PA100703,Ressano Garcia,,D1007,,
-posts,PA100704,S·biË,,D1007,,
+posts,PA100704,Sabie,,D1007,,
 posts,PA100801,Namaacha,,D1008,,
 posts,PA100802,Changalane,,D1008,,
 posts,PA100901,Infulene,,D1009,,
 posts,PA100902,Machava,,D1009,,
 posts,PA100903,Matola,,D1009,,
+posts,PA110101,KAMfumo,,D1101,,
+posts,PA110201,Nhlamankulu,,D1102,,
+posts,PA110301,KaMaxakeni,,D1103,,
+posts,PA110401,KaMavota,,D1104,,
+posts,PA110501,KaMubukwana,,D1105,,
+posts,PA110601,KaTembe,,D1106,,
+posts,PA110701,KaNyaka,,D1107,,
 projects,cesc_niassa,CESC Niassa,,,,fixed
 projects,ilrg_gras_hvp,GRAS HVPs,,,,fixed
 projects,ilrg_gras_nampula,GRAS Nampula,,,,fixed
@@ -928,9 +854,12 @@ provinces,P08,Inhambane,,,,
 provinces,P09,Gaza,,,,
 provinces,P10,Maputo,,,,
 provinces,P11,Maputo Cidade,,,,
+municipalities,quelimane,Quelimane,P04,,,
+municipalities,mocuba,Mocuba,P04,,,
+municipalities,nhamatanda,Nhamatanda,P07,,,
+municipalities,gondola,Gondola,P06,,,
 rep_relations,administrator,Administrador,,,,fixed
 rep_relations,administrator_designate,Administrador delegado,,,,fixed
-rep_relations,brother,Irm„(o),,,,fixed
 rep_relations,brother_in_law,Cunhado(a),,,,fixed
 rep_relations,cousin,Primo(a),,,,fixed
 rep_relations,director_general,Diretor geral,,,,fixed
@@ -938,7 +867,6 @@ rep_relations,employee,Empregado(a),,,,fixed
 rep_relations,father,Pai,,,,fixed
 rep_relations,father_in_law,Sogro(a),,,,fixed
 rep_relations,friend,Amigo(a),,,,fixed
-rep_relations,grandparent,Avo(avÛ),,,,fixed
 rep_relations,grandson,Neto(a),,,,fixed
 rep_relations,guard,Guarda,,,,fixed
 rep_relations,husband,Esposo(a),,,,fixed
@@ -946,7 +874,7 @@ rep_relations,lawyer,Advogado,,,,fixed
 rep_relations,legal_rep,Representante legal,,,,fixed
 rep_relations,manager,Gerente,,,,fixed
 rep_relations,member,Membro,,,,fixed
-rep_relations,mother,M„e,,,,fixed
+rep_relations,mother,M√£e,,,,fixed
 rep_relations,nephew,Sobrinho(a),,,,fixed
 rep_relations,other,Outro,,,,fixed
 rep_relations,partner,Socio(a),,,,fixed
@@ -964,86 +892,200 @@ rep_relations,vice_president,Vice Presidente,,,,fixed
 rep_relations,worker,Trabalhador(a),,,,fixed
 roles,community,Comunidade a ser delimitada,,,,fixed
 roles,community_neighbour,Comunidade vizinha,,,,fixed
-searchoption,contains,ContÈm,,,,fixed
+searchoption,contains,Cont√©m,,,,fixed
 searchoption,endswith,Termina com,,,,fixed
 searchoption,matches,Igual,,,,fixed
-searchoption,startswith,ComeÁa com,,,,fixed
+searchoption,startswith,Come√ßa com,,,,fixed
 themes,agric,Terra e Agricultura,,,,fixed
-themes,comm_land,Direitos e Gest„o de Terra Comunit·ria,,,,fixed
-themes,cons_land,"Direitos e ConservaÁ„o, Recursos Naturais e Biodiversidade",,,,fixed
+themes,comm_land,Direitos e Gest√£o de Terra Comunit√°ria,,,,fixed
+rep_relations,grandparent,Av√¥(av√≥),,,,fixed
 themes,priv_land,Direitos e Investimento Privado,,,,fixed
 themes,pub_land,Direitos e Investimento Publico,,,,fixed
 tofrom,doc_received,Documento recebido,,,,fixed
 tofrom,doc_sent,Documento apresentado,,,,fixed
 topics,agric,Agricultura,,,,fixed
 topics,biodiversity,Biodiversidade / Vida Selvagem,,,,fixed
-topics,climate_change,AlteraÁıes Clim·ticas,,,,fixed
 topics,conflict,Conflitos e Disputas,,,,fixed
-topics,democracy,Democracia e GovernanÁa,,,,fixed
 topics,forests,Florestas,,,,fixed
-topics,gender,GÍnero,,,,fixed
 topics,land_tenure,Posse de Terra,,,,fixed
 topics,private_sector,Sector Privado,,,,fixed
-topics,vulnerable,PopulaÁıes Vulner·veis,,,,fixed
-topics1,community_land_assoc,AssociaÁ„o Comunit·ria,,,,fixed
-topics1,community_land_delimitation,DelimitaÁ„o Comunit·ria,,,,fixed
 topics1,conflict,Conflitos e Disputas,,,,fixed
-topics1,democracy,Democracia e GovernanÁa,,,,fixed
 topics1,forests,Florestas,,,,fixed
-topics1,gender,GÍnero,,,,fixed
-topics1,hh_land_delimitation,DelimitaÁ„o das Machambas,,,,fixed
-topics1,Inheritance,HeranÁa,,,,fixed
 topics1,land_tenure,Posse de Terra,,,,fixed
 topics1,other,Outro,,,,fixed
 topics1,private_sector,Sector Privado,,,,fixed
-topics1,vulnerable,PopulaÁıes Vulner·veis,,,,fixed
-use_categories,commercial_use,ExploraÁ„o Comercial,,,,fixed
-use_categories,family_use,ExploraÁ„o Familiar,,,,fixed
 use_categories,other,Outro,,,,fixed
 uses,agric,Agricultura,,,,fixed
-uses,charcoal,Carv„o,,,,fixed
-uses,clay,ExtraÁ„o de barro,,,,fixed
 uses,firewood,Lenha,,,,fixed
 uses,honey,Busca de mel,,,,fixed
-uses,hunting,CaÁa,,,,fixed
 uses,medicines,Medicamentos tradicionais,,,,fixed
 uses,minerals,Recursos minerais,,,,fixed
 uses,other,Outra,,,,fixed
 uses,poles,Estacas,,,,fixed
-uses,reeds,ExtraÁ„o de capim,,,,fixed
 uses,reforestation,Reflorestamento,,,,fixed
-uses,reserve,Area de ConservaÁ„o,,,,fixed
 uses,residential,Residencial,,,,fixed
-uses,sacred,¡reas sagradas,,,,fixed
-uses,timber,ExtraÁ„o de madeira,,,,fixed
-uses_parcel,cattle_rearing,Pecu·ria Gado Bovino,,,,fixed
-uses_parcel,commercial,ComÈrcio/Industria/ServiÁos,,,,fixed
-uses_parcel,community,Fins Comunit·rios,,,,fixed
 uses_parcel,cropping,Agricultura,,,,fixed
-uses_parcel,mixed_farming,Agropecu·ria,,,,fixed
 uses_parcel,other,Outro,,,,fixed
-uses_parcel,other_livestock,Pecu·ria Outro,,,,fixed
 uses_parcel,permanent_crop,Culturas Permanentes,,,,fixed
-uses_parcel,residential,HabitaÁ„o Propria,,,,fixed
-uses_parcel,residential_commercial,HabitaÁ„o e Comercio,,,,fixed
-uses_parcel,residential_holiday,HabitaÁ„o Veraneio,,,,fixed
 uses_parcel,social,Fins Sociais/Religiosos,,,,fixed
-witness_types,assoc_rep,Representante da AssociaÁ„o,,,,fixed
 witness_types,authority,Chefe da Zona ou Povoado,,,,fixed
 witness_types,direct_neighbour,Vizinho directo,,,,fixed
 witness_types,nearby_neighbour,Vizinho perto,,,,fixed
-y_n,no,N„o,,,,fixed
 y_n,yes,Sim,,,,fixed
-y_n_1,no,N„o,,,,fixed
 y_n_1,yes,Sim,,,,fixed
-zonas_excl,prot_par,ProtecÁ„o Parcial,,,,fixed
-zonas_excl,prot_tot,ProtecÁ„o Total,,,,fixed
-zonas_excl,zona_erosa,Zona de Eros„o,,,,fixed
-zonas_excl,zona_inund,Zona de InundaÁ„o,,,,fixed
 zone_overlaps,partial,Parcialmente dentro,,,,fixed
 zone_overlaps,total,Totalmente dentro,,,,fixed
-zone_types,erosion,Zona de Eros„o,,,,fixed
-zone_types,flood,Zona de InundaÁ„o,,,,fixed
-zone_types,partial,ProtecÁ„o Parcial,,,,fixed
-zone_types,total,ProtecÁ„o Total,,,,fixed
-posts,PA091402,Mapai,,D0914,,
+zone_types,erosion,Zona de Eros√£o,,,,fixed
+access,access_public,Via de acesso p√∫blico ou comunit√°rio,,,,fixed
+activities,drp,Actividades de DRP (delimita√ß√£o comunit√°ria),,,,fixed
+activities,georef_return,Actividades de georeferenciamento e/ou devolu√ß√£o,,,,fixed
+activities,limits_village,Identifica√ß√£o de limites de povoados,,,,fixed
+activities,occ,Objec√ß√µes e Corre√ß√µes,,,,fixed
+activities,sensitisation,Sensibiliza√ß√£o,,,,fixed
+crops,boer_bean,Feij√£o Boer,,,,fixed
+crops,butter_bean,Feij√£o Manteiga,,,,fixed
+crops,cotton,Algod√£o,,,,fixed
+crops,cute_bean,Feij√£o Cute,,,,fixed
+crops,holoco_bean,Feij√£o Holoco,,,,fixed
+crops,jogo_bean,Feij√£o Jogo,,,,fixed
+crops,nhemba_bean,Feij√£o Nhemba,,,,fixed
+delimit_type,correction,Correc√ß√£o de limites,,,,fixed
+delimit_type,new,Delimita√ß√£o nova,,,,fixed
+deliverables,assoc_statutes,Estabelecimento de Associa√ß√µes - submiss√£o ao BR,,,,fixed
+deliverables,delcom_request,Pedido de reconhecimento de delimita√ß√£o de terra comunit√°ria ,,,,fixed
+deliverables,duats_delivered,Entrega de Declara√ß√µes de DUAT,,,,fixed
+deliverables,endline,Conclus√£o de Estudo de Linha de Fim,,,,fixed
+deliverables,lup_complete,Planos de Gestao e Uso de Terra e RN,,,,fixed
+docs,titles,Titulos de DUATs,,,,fixed
+docs,approval_govdist,Despacho/comunica√ß√£o do Governo Distrital,,,,fixed
+docs,approval_govprov,Despacho/comunica√ß√£o do Governo Provincial,,,,fixed
+docs,approval_govspgc,Despacho/comunica√ß√£o do SPGC,,,,fixed
+docs,certificate,Certificado da delimita√ß√£o comunit√°ria,,,,fixed
+projects,rcc,RCC,,,,fixed
+projects,wcs_nampula,WCS Nampula,,,,fixed
+deliverables,inception,Relatorio de Incep√ß√£o,,,,fixed
+deliverables,occ_finished,Conclus√£o do Processo de OCC,,,,fixed
+deliverables,rel_mens,Relat√≥rios Mensais,,,,fixed
+deliverables,rel_trim,Relat√≥rios Trimestrais,,,,fixed
+deliverables,training,Relat√≥rio de Treinamento,,,,fixed
+docs,assoc_form,"Processo de Legaliza√ß√£o da Associa√ß√£o (estatutos, regulamentos ou outros documentos)",,,,fixed
+docs,br_publish,Submiss√£o¬†ao¬†BR (pedido de publica√ß√£o de despacho e estatutos),,,,fixed
+docs,declarations,C√≥pias de Declara√ß√µes de DUATs emitidas pela Associa√ß√£o ,,,,fixed
+docs,form_1,Formul√°rio 1 do Anexo T√©cnico (actividades de sensibiliza√ß√£o),,,,fixed
+docs,form_2,Formul√°rio 2 do Anexo T√©cnico (inicio de delimita√ß√£o),,,,fixed
+docs,form_3,Formul√°rio 3 do Anexo T√©cnico (actividades de DRP),,,,fixed
+docs,form_5,Formul√°rio 5 do Anexo T√©cnico (acta de devolu√ß√£o),,,,fixed
+docs,ids,Identifica√ß√£o¬†de membros fundadores de Associa√ß√£o Comunit√°ria,,,,fixed
+docs,map_delim,Mapas de area comunit√°ria (delimitada),,,,fixed
+docs,services_geo,Pedido de presta√ß√£o de servi√ßos de Georeferenciamento,,,,fixed
+documents,declaration,Declara√ß√£o (Documento de Testemunhas),,,,fixed
+documents,demobilization_card,Cart√£o de Desmobiliza√ß√£o/Cart√£o Militar,,,,fixed
+documents,driving_licence,Carta de Condu√ß√£o,,,,fixed
+documents,identity_receipt,Tal√£o do BI,,,,fixed
+documents,personal_ballot,C√©dula Pessoal,,,,fixed
+documents,tax_payment_card,Cart√£o de pagamento de imposto,,,,fixed
+documents,voter_card,Cart√£o de Eleitor,,,,fixed
+duat_choices,declaration,Declara√ß√£o emitida pela Associa√ß√£o,,,,fixed
+duat_choices,title,Requer a emiss√£o do titulo pelos Servi√ßos Cadastrais,,,,fixed
+education,primary,Prim√°rio,,,,fixed
+education,secondary,Secund√°rio,,,,fixed
+enum_cat,community_parasurveyor,Auxiliar Comunit√°rio,,,,fixed
+eras,era_3,Durante a Guerra da Liberta√ß√£o,,,,fixed
+rep_relations,brother,Irm√£(o),,,,fixed
+institutions,assoc_com,Associa√ß√£o Comunit√°ria,,,,fixed
+institutions,dinat,Dire√ß√£o Nacional de Terras,,,,fixed
+institutions,district_admin,Administra√ß√£o Distrital,,,,fixed
+institutions,dptadr,"Dire√ß√£o Provincial de Terras, Ambiente e Desenvolvimento Rural",,,,fixed
+institutions,sdae,Servi√ßos Distritais de Actividades Econ√≥micas,,,,fixed
+institutions,sdpi,Servi√ßos Distritais de Planifica√ß√£o e Infraestruturas,,,,fixed
+institutions,spffb,Servi√ßos Provinciais de Florestas e Fauna Bravia,,,,fixed
+institutions,spgc,Servi√ßos Provinciais de Geografia e Cadastro,,,,fixed
+institutions,trad_com,Autoridade Comunit√°ria (R√©gulo ou chefe tradicional),,,,fixed
+institutions_meet,district_admin,Administra√ß√£o Distrital,,,,fixed
+institutions_meet,service_prov,Servi√ßos Provinciais,,,,fixed
+meetings,meet_leaders,Encontro apenas com lideran√ßa tradicional,,,,fixed
+meetings,meet_village,Encontro ao n√≠vel de povoado/bairro,,,,fixed
+nationalities,moz,Mo√ßambicana,,,,fixed
+norms,donation,Doa√ß√£o de algu√©m,,,,fixed
+norms,inheritance,Heran√ßa da fam√≠lia,,,,fixed
+norms,traditional,Atrav√©s do R√©gulo ou autoridade tradicional,,,,fixed
+norms,transfer,Transmiss√£o,,,,fixed
+occup,customary,Atrav√©s de Normas e Pr√°ticas Costumeiras,,,,fixed
+occup,good_faith,Ocupa√ß√£o de boa f√© (pelo menos 10 anos),,,,fixed
+other_use_areas,cemetery,Cemit√©rio,,,,fixed
+other_use_areas,health_post,Posto de Sa√∫de,,,,fixed
+other_use_areas,well,Po√ßo de √°gua,,,,fixed
+outcomes,certify,Todos os detalhes est√£o corretos e confirmados,,,,fixed
+outcomes,change,Foi feita uma altera√ß√£o aos detalhes do(s) (co-)titular(es) ou dos limites da parcela,,,,fixed
+outcomes,disputed,Foi feita uma objec√ß√£o que necessita uma resolu√ß√£o ainda,,,,fixed
+outcomes,unconfirmed,O titular n√£o confirmou os seus detalhes durante o periodo de O & C,,,,fixed
+points,assoc_meet,Associa√ß√£o - Ponto de encontro,,,,fixed
+points,cemetery,Cemit√©rio,,,,fixed
+points,health_post,Posto de Sa√∫de,,,,fixed
+points,tree,√Årvore,,,,fixed
+points,tree_marked,√Årvore com uma marca,,,,fixed
+points,water_point,Furo de √°gua,,,,fixed
+points,well,Po√ßo de √°gua,,,,fixed
+themes,cons_land,"Direitos e Conserva√ß√£o, Recursos Naturais e Biodiversidade",,,,fixed
+topics,climate_change,Altera√ß√µes Clim√°ticas,,,,fixed
+topics,democracy,Democracia e Governan√ßa,,,,fixed
+topics,gender,G√©nero,,,,fixed
+topics,vulnerable,Popula√ß√µes Vulner√°veis,,,,fixed
+topics1,community_land_assoc,Associa√ß√£o Comunit√°ria,,,,fixed
+topics1,community_land_delimitation,Delimita√ß√£o Comunit√°ria,,,,fixed
+topics1,democracy,Democracia e Governan√ßa,,,,fixed
+topics1,gender,G√©nero,,,,fixed
+topics1,hh_land_delimitation,Delimita√ß√£o das Machambas,,,,fixed
+topics1,Inheritance,Heran√ßa,,,,fixed
+topics1,vulnerable,Popula√ß√µes Vulner√°veis,,,,fixed
+use_categories,commercial_use,Explora√ß√£o Comercial,,,,fixed
+use_categories,family_use,Explora√ß√£o Familiar,,,,fixed
+uses,charcoal,Carv√£o,,,,fixed
+uses,clay,Extra√ß√£o de barro,,,,fixed
+uses,hunting,Ca√ßa,,,,fixed
+uses,reeds,Extra√ß√£o de capim,,,,fixed
+uses,reserve,√Årea de Conserva√ß√£o,,,,fixed
+uses,sacred,√Åreas sagradas,,,,fixed
+uses,timber,Extra√ß√£o de madeira,,,,fixed
+uses_parcel,cattle_rearing,Pecu√°ria Gado Bovino,,,,fixed
+uses_parcel,commercial,Com√©rcio/Ind√∫stria/Servi√ßos,,,,fixed
+uses_parcel,community,Fins Comunit√°rios,,,,fixed
+uses_parcel,mixed_farming,Agropecu√°ria,,,,fixed
+uses_parcel,other_livestock,Pecu√°ria Outro,,,,fixed
+uses_parcel,residential,Habita√ß√£o Pr√≥pria,,,,fixed
+uses_parcel,residential_commercial,Habita√ß√£o e Com√©rcio,,,,fixed
+uses_parcel,residential_holiday,Habita√ß√£o Veraneio,,,,fixed
+witness_types,assoc_rep,Representante da Associa√ß√£o,,,,fixed
+y_n,no,N√£o,,,,fixed
+y_n_1,no,N√£o,,,,fixed
+zonas_excl,prot_par,Prote√ß√£o Parcial,,,,fixed
+zonas_excl,prot_tot,Prote√ß√£o Total,,,,fixed
+zonas_excl,zona_erosa,Zona de Eros√£o,,,,fixed
+zonas_excl,zona_inund,Zona de Inunda√ß√£o,,,,fixed
+zone_types,flood,Zona de Inunda√ß√£o,,,,fixed
+zone_types,partial,Prote√ß√£o Parcial,,,,fixed
+zone_types,total,Prote√ß√£o Total,,,,fixed
+roofings,concrete,Laje de bet√£o,,,,fixed
+roofings,lusalite,Chapas de lusalite,,,,fixed
+roofings,zinc,Chapas de zinco,,,,fixed
+roofings,thatch,Capim/ Colmo / Palmeria,,,,fixed
+roofings,other,Outro,,,,fixed
+house_materials,reeds,Cani√ßos,,,,fixed
+house_materials,mud_sticks,Lama e paus,,,,fixed
+house_materials,clay_bricks,Tijolos de barro,,,,fixed
+house_materials,concrete_blocks,Blocos de concreto,,,,fixed
+house_materials,other,Outra material,,,,fixed
+loss_types,permanent,Permanente,,,,fixed
+loss_types,temporary,Tempor√°ria,,,,fixed
+disasters,cyclone,Ciclone ou forte tempestade,,,,fixed
+disasters,flooding,Inunda√ß√µes,,,,fixed
+disasters,earthquake,Terremoto,,,,fixed
+disasters,mudslide,Deslizamento de terra,,,,fixed
+disasters,drought,Seca prolongada,,,,fixed
+disasters,erosion,Eros√£o,,,,fixed
+disasters,other,Outra,,,,fixed
+meetings,meet_municipality,Encontro com Munic√≠pio,,,,fixed
+institutions_meet,municipio,Munic√≠pio,,,,fixed
+ages,adult,Entre 35 - 60 anos,,,,fixed
+ages,elder,60+ anos,,,,fixed
+ages,youth,Entre 18 - 35 anos,,,,fixed
